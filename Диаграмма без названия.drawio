@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.6" pages="2">
   <diagram name="Страница — 1" id="LS_hsxdd65FkhUuADs8E">
-    <mxGraphModel dx="1694" dy="1717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3110" dy="2535" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-499.5" y="-99" width="702" height="433" as="geometry" />
+        </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-1" value="Films" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="752" y="-184" width="120" height="60" as="geometry" />
         </mxCell>
@@ -149,7 +152,7 @@
           <mxGeometry x="-627" y="-104" width="63" height="31" as="geometry" />
         </mxCell>
         <mxCell id="l4dksT7qZbz_hdmSisIs-15" value="Links" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-243" y="227" width="178" height="30" as="geometry" />
+          <mxGeometry x="-243" y="231" width="178" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l4dksT7qZbz_hdmSisIs-17" value="Account page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-654" y="348" width="116" height="31" as="geometry" />
@@ -161,7 +164,7 @@
           <mxGeometry x="-498" y="-976" width="711" height="76" as="geometry" />
         </mxCell>
         <mxCell id="r-4gwITru2xlTATCTxKp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-498" y="-101" width="702" height="433" as="geometry" />
+          <mxGeometry x="-499" y="349.5" width="702" height="433" as="geometry" />
         </mxCell>
         <mxCell id="r-4gwITru2xlTATCTxKp-2" value="FilmSpot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-225" y="-88" width="167" height="46" as="geometry" />
@@ -201,6 +204,115 @@
         </mxCell>
         <mxCell id="3AMT3zw46Zd8kkKR2NrO-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="r-4gwITru2xlTATCTxKp-9" target="r-4gwITru2xlTATCTxKp-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-1" value="FilmSpot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="361" width="167" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-2" value="Login / Register" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="359" width="126" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-3" value="Todays trending Movie Titles names and reviews" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-491" y="370" width="120" height="356" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-4" value="Ads" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="428" width="120" height="282" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-5" value="Ads" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-352" y="737" width="400" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-6" value="Your&amp;nbsp;recommended film to watch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-352" y="426" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-7" value="Your&amp;nbsp;recommended film to watch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-219" y="426" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-8" value="Your&amp;nbsp;recommended film to watch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-86" y="426" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-9" value="Your&amp;nbsp;recommended film to watch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-352" y="562" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-10" value="Your&amp;nbsp;recommended film to watch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-219" y="562" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-11" value="Your&amp;nbsp;recommended film to watch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-86" y="562" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HB2Zi_AlLeRwL962_Kes-5" target="HB2Zi_AlLeRwL962_Kes-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HB2Zi_AlLeRwL962_Kes-4" target="HB2Zi_AlLeRwL962_Kes-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HB2Zi_AlLeRwL962_Kes-4" target="HB2Zi_AlLeRwL962_Kes-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HB2Zi_AlLeRwL962_Kes-4" target="HB2Zi_AlLeRwL962_Kes-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-499.5" y="800" width="702" height="433" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-17" value="FilmSpot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-226.5" y="813" width="167" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-18" value="Logout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="54.5" y="811" width="126" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-19" value="Watched movie history" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-492.5" y="822" width="120" height="356" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-20" value="Movies you should watch next" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="57.5" y="880" width="120" height="282" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-21" value="Ads" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-353.5" y="1189" width="400" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-22" value="Film you watched write review and rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-353.5" y="878" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-23" value="Film you watched write review and rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220.5" y="878" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-24" value="Film you watched write review and rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-87.5" y="878" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-25" value="Film you watched write review and rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-353.5" y="1014" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-26" value="Film you watched write review and rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220.5" y="1014" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-27" value="Film you watched write review and rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-87.5" y="1014" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HB2Zi_AlLeRwL962_Kes-21" target="HB2Zi_AlLeRwL962_Kes-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HB2Zi_AlLeRwL962_Kes-20" target="HB2Zi_AlLeRwL962_Kes-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HB2Zi_AlLeRwL962_Kes-20" target="HB2Zi_AlLeRwL962_Kes-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-31" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HB2Zi_AlLeRwL962_Kes-20" target="HB2Zi_AlLeRwL962_Kes-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HB2Zi_AlLeRwL962_Kes-21" target="HB2Zi_AlLeRwL962_Kes-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-153" y="1185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-33" value="Page selector 1 - infinte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-257" y="1152" width="203" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HB2Zi_AlLeRwL962_Kes-5" target="HB2Zi_AlLeRwL962_Kes-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HB2Zi_AlLeRwL962_Kes-35" value="Page number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-213" y="697" width="105.5" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
