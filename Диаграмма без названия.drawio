@@ -1,109 +1,109 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.6" pages="2">
   <diagram name="Страница — 1" id="LS_hsxdd65FkhUuADs8E">
-    <mxGraphModel dx="2186" dy="2001" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1694" dy="1717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HhmzMrbmqhr_2IEOml7r-1" value="Films" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="752" y="-184" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-2" value="Authorized Users" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="542" y="-514" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-3" value="Rating" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="552" y="-184" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-4" value="Survey" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="752" y="-404" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-5" value="Not authorized Users" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="752" y="-514" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HhmzMrbmqhr_2IEOml7r-5" target="HhmzMrbmqhr_2IEOml7r-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="480" as="sourcePoint" />
-            <mxPoint x="550" y="430" as="targetPoint" />
+            <mxPoint x="812" y="-204" as="sourcePoint" />
+            <mxPoint x="862" y="-254" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HhmzMrbmqhr_2IEOml7r-2" target="HhmzMrbmqhr_2IEOml7r-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="480" as="sourcePoint" />
-            <mxPoint x="550" y="430" as="targetPoint" />
+            <mxPoint x="812" y="-204" as="sourcePoint" />
+            <mxPoint x="862" y="-254" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HhmzMrbmqhr_2IEOml7r-1" target="HhmzMrbmqhr_2IEOml7r-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="490" as="sourcePoint" />
-            <mxPoint x="520" y="440" as="targetPoint" />
+            <mxPoint x="782" y="-194" as="sourcePoint" />
+            <mxPoint x="832" y="-244" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-11" value="Recommendations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="752" y="-314" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-13" value="Watching list&amp;nbsp;&lt;div&gt;(should to watch)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="372" y="-384" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-15" value="Rating history" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="372" y="-324" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HhmzMrbmqhr_2IEOml7r-4" target="HhmzMrbmqhr_2IEOml7r-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="380" as="sourcePoint" />
-            <mxPoint x="430" y="330" as="targetPoint" />
+            <mxPoint x="692" y="-304" as="sourcePoint" />
+            <mxPoint x="742" y="-354" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HhmzMrbmqhr_2IEOml7r-2" target="HhmzMrbmqhr_2IEOml7r-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="380" as="sourcePoint" />
-            <mxPoint x="430" y="330" as="targetPoint" />
+            <mxPoint x="692" y="-304" as="sourcePoint" />
+            <mxPoint x="742" y="-354" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HhmzMrbmqhr_2IEOml7r-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="380" as="sourcePoint" />
-            <mxPoint x="290" y="230" as="targetPoint" />
+            <mxPoint x="692" y="-304" as="sourcePoint" />
+            <mxPoint x="602" y="-454" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-22" value="Reviews" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="552" y="-264" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-23" value="Capcha" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="542" y="-604" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HhmzMrbmqhr_2IEOml7r-23" target="HhmzMrbmqhr_2IEOml7r-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="380" as="sourcePoint" />
-            <mxPoint x="430" y="330" as="targetPoint" />
+            <mxPoint x="692" y="-304" as="sourcePoint" />
+            <mxPoint x="742" y="-354" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HhmzMrbmqhr_2IEOml7r-2" target="HhmzMrbmqhr_2IEOml7r-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="380" as="sourcePoint" />
-            <mxPoint x="430" y="330" as="targetPoint" />
+            <mxPoint x="692" y="-304" as="sourcePoint" />
+            <mxPoint x="742" y="-354" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HhmzMrbmqhr_2IEOml7r-15" target="HhmzMrbmqhr_2IEOml7r-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="420" as="sourcePoint" />
-            <mxPoint x="370" y="370" as="targetPoint" />
+            <mxPoint x="632" y="-264" as="sourcePoint" />
+            <mxPoint x="682" y="-314" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HhmzMrbmqhr_2IEOml7r-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="380" as="sourcePoint" />
-            <mxPoint x="440" y="530" as="targetPoint" />
+            <mxPoint x="692" y="-304" as="sourcePoint" />
+            <mxPoint x="752" y="-154" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HhmzMrbmqhr_2IEOml7r-22" target="HhmzMrbmqhr_2IEOml7r-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="380" as="sourcePoint" />
-            <mxPoint x="430" y="330" as="targetPoint" />
+            <mxPoint x="692" y="-304" as="sourcePoint" />
+            <mxPoint x="742" y="-354" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HhmzMrbmqhr_2IEOml7r-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HhmzMrbmqhr_2IEOml7r-15" target="HhmzMrbmqhr_2IEOml7r-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="380" as="sourcePoint" />
-            <mxPoint x="430" y="330" as="targetPoint" />
+            <mxPoint x="692" y="-304" as="sourcePoint" />
+            <mxPoint x="742" y="-354" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l4dksT7qZbz_hdmSisIs-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -154,11 +154,209 @@
         <mxCell id="l4dksT7qZbz_hdmSisIs-17" value="Account page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-654" y="348" width="116" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="l4dksT7qZbz_hdmSisIs-18" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248); color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures;&quot;&gt;Recommendation engine: develop an algorithm for film recommendation for authorized and non-authorized users.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248); color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures;&quot;&gt;Movie Database Integration (TMDb, IMDb or different)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248); color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures;&quot;&gt;User experience: design an intuitive and responsive user interface, ensure smooth navigation and visually appealing layouts.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248); color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures;&quot;&gt;User registration: captcha, users can create and delete accounts, log in and watch history and ratings.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248); color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures;&quot;&gt;Rating system: allow users to rate movies and access to make reviews.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248); color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures;&quot;&gt;Reviews: section after recommended film.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248); color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures;&quot;&gt;Scalability and Performance: design the system to handle a growing user base, optimize performance for quick response times.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;whiteSpace=wrap;html=1;spacing=2;spacingTop=0;" vertex="1" parent="1">
+        <mxCell id="l4dksT7qZbz_hdmSisIs-18" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248); color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures;&quot;&gt;Recommendation engine: develop an algorithm for film recommendation for authorized and non-authorized users.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248); color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures;&quot;&gt;Movie Database Integration (TMDb, IMDb or different)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248); color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures;&quot;&gt;User experience: design an intuitive and responsive user interface, ensure smooth navigation and visually appealing layouts.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248); color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures;&quot;&gt;User registration: captcha, users can create and delete accounts, log in and watch history and ratings.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248); color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures;&quot;&gt;Rating system: allow users to rate movies and access to make reviews.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248); color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures;&quot;&gt;Reviews: section after recommended film.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248); color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures;&quot;&gt;Scalability and Performance: design the system to handle a growing user base, optimize performance for quick response times.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;whiteSpace=wrap;html=1;spacing=3;" vertex="1" parent="1">
           <mxGeometry x="-498" y="-874" width="701" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="l4dksT7qZbz_hdmSisIs-19" value="&lt;b data-stringify-type=&quot;bold&quot; style=&quot;box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Movie recommendation system:&lt;/b&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;Creating a movie recommendation system that suggests movies based on user preferences and ratings. You can use APIs like TMDb (The Movie Database) to fetch movie data.&lt;/span&gt;&lt;span class=&quot;c-message__edited_label&quot; dir=&quot;ltr&quot; data-sk=&quot;tooltip_parent&quot; style=&quot;box-sizing: inherit; color: rgba(var(--sk_foreground_high_solid,134,134,134),1); cursor: default; white-space: nowrap; font-size: 13px; font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l4dksT7qZbz_hdmSisIs-19" value="&lt;b data-stringify-type=&quot;bold&quot; style=&quot;box-sizing: inherit; color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Movie recommendation system:&lt;/b&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;Creating a movie recommendation system that suggests movies based on user preferences and ratings.&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-498" y="-976" width="711" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="r-4gwITru2xlTATCTxKp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-498" y="-101" width="702" height="433" as="geometry" />
+        </mxCell>
+        <mxCell id="r-4gwITru2xlTATCTxKp-2" value="FilmSpot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="-88" width="167" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="r-4gwITru2xlTATCTxKp-3" value="Login / Register" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="-90" width="126" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="r-4gwITru2xlTATCTxKp-4" value="Todays trending Movie Titles names and reviews" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-491" y="-79" width="120" height="356" as="geometry" />
+        </mxCell>
+        <mxCell id="r-4gwITru2xlTATCTxKp-5" value="questions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="-10" width="383" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="r-4gwITru2xlTATCTxKp-6" value="Ads" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="78" y="-30" width="109" height="349" as="geometry" />
+        </mxCell>
+        <mxCell id="r-4gwITru2xlTATCTxKp-7" value="Ads" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-352" y="265" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r-4gwITru2xlTATCTxKp-8" value="Film image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-316" y="4" width="105" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="r-4gwITru2xlTATCTxKp-9" value="Recommendation:&amp;nbsp;&lt;div&gt;Film details, description&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-199" y="4" width="225" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="r-4gwITru2xlTATCTxKp-10" value="Review1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-316" y="92.5" width="342" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-4gwITru2xlTATCTxKp-11" value="ReviewN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-316" y="184" width="342" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-4gwITru2xlTATCTxKp-12" value="Review2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-316" y="141" width="342" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3AMT3zw46Zd8kkKR2NrO-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="r-4gwITru2xlTATCTxKp-8" target="r-4gwITru2xlTATCTxKp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3AMT3zw46Zd8kkKR2NrO-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="r-4gwITru2xlTATCTxKp-9" target="r-4gwITru2xlTATCTxKp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mibsp6SrYg9GVpOMzh2_" name="Leht-2">
+    <mxGraphModel dx="3320" dy="1856" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-498" y="-104" width="702" height="433" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-2" value="FilmSpot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="-91" width="167" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-3" value="Login / Register" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="-93" width="126" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-4" value="Todays trending Movie Titles names and reviews" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-491" y="-82" width="120" height="356" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-5" value="questions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="-13" width="383" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-6" value="Ads" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="78" y="-33" width="109" height="349" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-7" value="Ads" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-352" y="262" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-498" y="348" width="702" height="433" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-9" value="FilmSpot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="361" width="167" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-10" value="Login / Register" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="359" width="126" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-11" value="Todays trending Movie Titles names and reviews" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-491" y="370" width="120" height="356" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-12" value="Ads" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="428" width="120" height="282" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-13" value="Ads" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-352" y="737" width="400" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-14" value="Your&amp;nbsp;recommended film to watch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-352" y="426" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-15" value="Your&amp;nbsp;recommended film to watch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-219" y="426" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-16" value="Your&amp;nbsp;recommended film to watch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-86" y="426" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-17" value="Your&amp;nbsp;recommended film to watch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-352" y="562" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-18" value="Your&amp;nbsp;recommended film to watch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-219" y="562" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-19" value="Your&amp;nbsp;recommended film to watch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-86" y="562" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="d5mL1SETGmg1-nzRWt5b-13" target="d5mL1SETGmg1-nzRWt5b-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="d5mL1SETGmg1-nzRWt5b-12" target="d5mL1SETGmg1-nzRWt5b-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="d5mL1SETGmg1-nzRWt5b-12" target="d5mL1SETGmg1-nzRWt5b-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="d5mL1SETGmg1-nzRWt5b-12" target="d5mL1SETGmg1-nzRWt5b-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-24" value="Question" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-316" y="1" width="341" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-25" value="Answer1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-316" y="46" width="342" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-26" value="Answer2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-316" y="89.5" width="342" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-27" value="Answer4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-316" y="181" width="342" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-28" value="Answer3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-316" y="138" width="342" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-499.5" y="800" width="702" height="433" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-30" value="FilmSpot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-226.5" y="813" width="167" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-31" value="Logout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="54.5" y="811" width="126" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-32" value="Watched movie history" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-492.5" y="822" width="120" height="356" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-33" value="Movies you should watch next" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="57.5" y="880" width="120" height="282" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-34" value="Ads" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-353.5" y="1189" width="400" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-35" value="Film you watched write review and rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-353.5" y="878" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-36" value="Film you watched write review and rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220.5" y="878" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-37" value="Film you watched write review and rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-87.5" y="878" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-38" value="Film you watched write review and rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-353.5" y="1014" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-39" value="Film you watched write review and rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220.5" y="1014" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-40" value="Film you watched write review and rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-87.5" y="1014" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-41" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="d5mL1SETGmg1-nzRWt5b-34" target="d5mL1SETGmg1-nzRWt5b-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-42" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="d5mL1SETGmg1-nzRWt5b-33" target="d5mL1SETGmg1-nzRWt5b-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-43" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="d5mL1SETGmg1-nzRWt5b-33" target="d5mL1SETGmg1-nzRWt5b-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-44" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="d5mL1SETGmg1-nzRWt5b-33" target="d5mL1SETGmg1-nzRWt5b-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-45" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="d5mL1SETGmg1-nzRWt5b-34" target="d5mL1SETGmg1-nzRWt5b-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-153" y="1185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-46" value="Page selector 1 - infinte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-257" y="1152" width="203" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-47" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="d5mL1SETGmg1-nzRWt5b-13" target="d5mL1SETGmg1-nzRWt5b-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5mL1SETGmg1-nzRWt5b-48" value="Page number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-213" y="697" width="105.5" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
